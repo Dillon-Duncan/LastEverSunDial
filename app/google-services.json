@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "718524791624",
+    "firebase_url": "https://burgerworld-74bac-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "burgerworld-74bac",
+    "storage_bucket": "burgerworld-74bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718524791624:android:5af5d7f61769c1f563917d",
+        "android_client_info": {
+          "package_name": "com.example.lasteversundial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOc9tm4dSxrgShEXWcXl1tkP0Pvx2WX-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718524791624:android:95fb0cd4b01724db63917d",
+        "android_client_info": {
+          "package_name": "com.example.sundial_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOc9tm4dSxrgShEXWcXl1tkP0Pvx2WX-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
